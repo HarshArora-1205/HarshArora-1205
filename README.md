@@ -4,8 +4,8 @@ Software Engineer. Web Designer. MERN Stack Developer.
 I am currently a final year student at the prestigious Indian Institute of Information Technology, Pune **(IIIT Pune)**, pursuing a Bachelor's degree in Computer Science with Honors in Data Science.
 
 - **Dev Environment:** Linux (Fedora/ Ubuntu) / Windows
-- **Languages:** C++, JavaScript. familiar with SQL, Java & Python.
-- **Libraries & Frameworks:** React, Express - Node, Pandas, NumPy, TailwindCSS, MaterialUI.
+- **Languages:** C++, JavaScript. familiar with SQL, TypeScript, Java & Python.
+- **Libraries & Frameworks:** React, Next, Express - Node, Pandas, NumPy, TailwindCSS, MaterialUI.
 - **Tools & Platforms:** Git, Figma ❣️, Visual Studio Code (obviously), Postman. Familiar with Docker
 - **Databases:** MongoDB, PlanetScale. Familiar with Firebase & Oracle.
 
