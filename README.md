@@ -10,7 +10,7 @@ I am currently a final year student at the prestigious Indian Institute of Infor
 - **Databases:** MongoDB, PlanetScale. Familiar with Firebase & Oracle.
 
 
-**Have a project on mind?**
+**Have a project on mind? or just wish to talk about Batman🦇:**
 Connect with me on [Linkedin](https://www.linkedin.com/in/harsharora1205/).
 <!---
 HarshArora-1205/HarshArora-1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
